@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Serjolik
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Unity
 - 📫 How to reach me: Seregsa2014@gmail.com
 
 <!---
