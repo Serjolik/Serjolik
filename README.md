@@ -1,11 +1,10 @@
 ## 👋 Hi, I’m @Serjolik🎩
-🔥 In this profile you can find my `old projects` and my `current` 🔥  
+🔥 In this profile you can find my `old projects` and my `currents` 🔥  
 **🆗 Please check the description in repos :)**
 - 🏫 Currently i am a student in **MAI** university in applied mathematics.
-- 📌 My dream is working on programs in **C#**
+- 📌 I work as a C# FullStack developer
 - 👀 I’m interested in **Game Development**
-- Wrote some simple games, you can see a couple of them in this account.
-- 🌱 I’m currently learning **Unity**
+- Tags: C#/WinForms/.NetCore/Unity/Vue/CSS/JS/HTML/SCSS/Element+/Vite
 - 📧 How to reach me: **Seregsa2014@gmail.com** 📧
 Thank you for your attention)😃
 
